@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/(https://github.com/akash10112405/cryptocarrency1.git)/static/css/main.78d1af16.css",
+    "main.js": "/(https://github.com/akash10112405/cryptocarrency1.git)/static/js/main.63419832.js",
+    "static/media/crypto.jpg": "/(https://github.com/akash10112405/cryptocarrency1.git)/static/media/crypto.5e36c5e48974d5b3b9b7.jpg",
+    "index.html": "/(https://github.com/akash10112405/cryptocarrency1.git)/index.html",
+    "main.78d1af16.css.map": "/(https://github.com/akash10112405/cryptocarrency1.git)/static/css/main.78d1af16.css.map",
+    "main.63419832.js.map": "/(https://github.com/akash10112405/cryptocarrency1.git)/static/js/main.63419832.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78d1af16.css",
+    "static/js/main.63419832.js"
+  ]
+}
