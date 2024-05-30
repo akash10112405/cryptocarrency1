@@ -1,4 +1,36 @@
-# cryptocarrency1
+# cryptocarrency
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+- You have installed [Node.js](https://nodejs.org/) (which includes npm).
+
+## Installation
+
+To install the project dependencies, follow these steps:
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/your-repo-name.git
+    ```
+
+2. Navigate to the project directory:
+    ```sh
+    cd your-repo-name
+    ```
+
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
+
+## Running the Project
+
+To start the development server, use the following command:
+
+```sh
+npm start
+
 Project Requirements:
 
       Crypto Currency swapping  - So I have to take the dropdown box from the open source API link to get the
