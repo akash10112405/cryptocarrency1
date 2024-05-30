@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/akash10112405/cryptocarrency1.git/static/css/main.36828d1b.css",
-    "main.js": "/akash10112405/cryptocarrency1.git/static/js/main.63419832.js",
-    "static/media/crypto.jpg": "/akash10112405/cryptocarrency1.git/static/media/crypto.5e36c5e48974d5b3b9b7.jpg",
-    "index.html": "/akash10112405/cryptocarrency1.git/index.html",
-    "main.36828d1b.css.map": "/akash10112405/cryptocarrency1.git/static/css/main.36828d1b.css.map",
-    "main.63419832.js.map": "/akash10112405/cryptocarrency1.git/static/js/main.63419832.js.map"
+    "main.css": "/cryptocarrency1/static/css/main.ee66b10b.css",
+    "main.js": "/cryptocarrency1/static/js/main.63419832.js",
+    "static/media/crypto.jpg": "/cryptocarrency1/static/media/crypto.5e36c5e48974d5b3b9b7.jpg",
+    "index.html": "/cryptocarrency1/index.html",
+    "main.ee66b10b.css.map": "/cryptocarrency1/static/css/main.ee66b10b.css.map",
+    "main.63419832.js.map": "/cryptocarrency1/static/js/main.63419832.js.map"
   },
   "entrypoints": [
-    "static/css/main.36828d1b.css",
+    "static/css/main.ee66b10b.css",
     "static/js/main.63419832.js"
   ]
 }
