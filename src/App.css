@@ -1,9 +1,15 @@
 .App {
   text-align: center;
-  margin-top: 50px;
   color: #eb6cbe;
   text-shadow: 1px 0 0 red;
-  font-weight: 20ox;
+  width: 100%;
+  height: 100vh;
+  background-image: url(/src/img/crypto.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  overflow: hidden;
 }
 
 .crypto-swap {
